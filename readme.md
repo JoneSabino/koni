@@ -4,8 +4,14 @@
 source venv/bin/activate
 ```
 ### baixar as dependencias
-`pip install -r requirements.txt`
+```bash 
+pip install -r requirements.txt
+```
 ### executar testes
-`python -m pytest tests`
+```bash 
+python -m pytest tests
+```
 ### executar aplicacao
-`python -u calculadora.py`
+```bash
+python -u calculadora.py
+```
